@@ -1,0 +1,40 @@
+# ==========================================
+# Artefactos de compilación (.NET)
+# ==========================================
+bin/
+obj/
+[Debug]/
+[Release]/
+
+# ==========================================
+# Archivos guardados por el Editor / IDE
+# ==========================================
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+!.vscode/extensions.json
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+
+# ==========================================
+# Archivos del sistema y temporales
+# ==========================================
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# ==========================================
+# Secretos y Configuración Local
+# ==========================================
+# Descomenta las siguientes líneas si usas secretos locales o entornos separados
+# appsettings.Development.json
+# appsettings.Local.json
