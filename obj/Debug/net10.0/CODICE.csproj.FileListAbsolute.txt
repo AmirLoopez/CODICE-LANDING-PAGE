@@ -102,5 +102,6 @@ C:\Users\Amirl\OneDrive\Escritorio\CODICE\CODICE\obj\Debug\net10.0\compressed\41
 C:\Users\Amirl\OneDrive\Escritorio\CODICE\CODICE\obj\Debug\net10.0\compressed\jb4x2bflid-{0}-hhla8ou86b-hhla8ou86b.gz
 C:\Users\Amirl\OneDrive\Escritorio\CODICE\CODICE\obj\Debug\net10.0\compressed\rm9itrnqd4-{0}-sc7v1wgpvn-sc7v1wgpvn.gz
 C:\Users\Amirl\OneDrive\Escritorio\CODICE\CODICE\obj\Debug\net10.0\compressed\kz5l2qo7iq-{0}-s1og8u8dju-s1og8u8dju.gz
-C:\Users\Amirl\OneDrive\Escritorio\CODICE\CODICE\obj\Debug\net10.0\compressed\3xqvm9t6yv-{0}-m4nqmv8iqd-m4nqmv8iqd.gz
 C:\Users\Amirl\OneDrive\Escritorio\CODICE\CODICE\obj\Debug\net10.0\compressed\s5i5cq07q9-{0}-2ba6ayb2wv-2ba6ayb2wv.gz
+C:\Users\Amirl\OneDrive\Escritorio\CODICE\CODICE\obj\Debug\net10.0\CODICE.sourcelink.json
+C:\Users\Amirl\OneDrive\Escritorio\CODICE\CODICE\obj\Debug\net10.0\compressed\5p6ss6ejp2-{0}-fbjr0mnm2e-fbjr0mnm2e.gz
